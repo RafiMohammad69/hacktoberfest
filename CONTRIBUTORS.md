@@ -1,3 +1,7 @@
+#### Name: Rafi
+ - Place: Hyderabada, India
+ - Bio: Student
+ - GitHub: [Rafi](https://github.com/RafiMohammad69)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
